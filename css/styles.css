@@ -1,0 +1,85 @@
+/*#region Custom properties */
+:root{
+	/* -----text-color----- */
+	--primary-color: #212121;
+	--secondary-color: #757575;
+	--btn-text-color: #ffffff;
+	--accent-color: #2196f3;
+	/* -----background-color----- */
+	--primary-bg-color: #ffffff;
+	--secondary-bg-color: #2f303a;
+	--section-bg-color: #f5f4fa;
+	--primary-btn-bg: #f5f4fa;
+	--secondary-btn-bg: #2196f3;
+		/* -----border color----- */
+	--border-color: #eeeeee;
+}
+/*#endregion */
+
+/*#region Reset/Base */
+body{
+	color: var(--primary-color);
+	background-color: var(--primary-bg-color);
+
+}
+/*#endregion */
+
+/*#region Header */
+.header{
+
+}
+.navigation{
+
+}
+.logo{
+
+}
+.logo-black{
+
+}
+.header .link{
+
+}
+.navigation-link{
+
+}
+.contact-link{
+
+}
+.navigation-link:hover,
+.navigation-link:focus,
+.contact-link:hover,
+.contact-link:focus{
+
+}
+/*#endregion */
+
+/*#region Footer */
+.footer{
+
+}
+.footer .logo{
+
+}
+.logo-white{
+
+}
+
+/*#endregion */
+
+/*#region Hero */
+
+/*#endregion */
+
+/*#region Quality */
+
+/*#endregion */
+
+/*#region Work */
+
+/*#endregion */
+
+/*#region Team */
+
+/*#endregion */
+
