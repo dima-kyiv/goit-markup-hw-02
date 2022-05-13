@@ -17,7 +17,7 @@
 }
 /*#endregion */
 
-/*#region Reset/Base */
+/*#region Reset/Normalize */
 body {
   color: var(--primary-color);
   background-color: var(--primary-bg-color);
@@ -121,6 +121,7 @@ address {
 }
 .quality-benefits {
   font-weight: 700;
+  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
